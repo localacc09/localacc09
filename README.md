@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kanika
+- 👋 Hi, I’m Kanika
 - 👀 I’m interested in tech world
 - 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on programming projects
